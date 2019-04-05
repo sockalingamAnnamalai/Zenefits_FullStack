@@ -3,4 +3,4 @@
 Instruction to run the application
 
 Download the folder
-open index.html using any browser
+and open index.html using any browser
